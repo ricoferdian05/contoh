@@ -1,3 +1,3 @@
 # contoh website
 
-ini adalah versi 1
+ini adalah versi 2 dari Rico
